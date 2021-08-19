@@ -30,7 +30,7 @@ To send a sample message on defined service bus queue, `serverless.yml` declares
 #### 1. Install Project Dependencies
 `npm install` in this directory to download the modules from `package.json`.
 
-#### 2.  To run the azure function locally using `serverlesss offline --stage dev`
+#### 2.  To run the azure function locally using `serverless offline --stage dev`
 
 The `serverless offline --stage dev` command will let you try and test your azure function locally.
 
